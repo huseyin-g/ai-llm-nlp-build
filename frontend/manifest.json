@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Resume Optimizer",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Resume Optimizer",
+    "default_popup": "index.html"
+  }
+}
